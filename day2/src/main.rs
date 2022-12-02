@@ -5,8 +5,8 @@ use std::{collections::HashMap, fs::read_to_string};
 //C and Z are scissors
 
 fn main() {
-    println!("Part one solution: {}", part_one);
-    println!("Part two solution: {}", part_two);
+    println!("Part one solution: {}", part_one());
+    println!("Part two solution: {}", part_two());
 
 }
 
